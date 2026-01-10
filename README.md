@@ -173,5 +173,3 @@ nasa-nea-analytics/
 This project uses **publicly available NASA data** and is intended for **educational and portfolio purposes**.
 
 ---
-
-Just tell me what you want next 👌
