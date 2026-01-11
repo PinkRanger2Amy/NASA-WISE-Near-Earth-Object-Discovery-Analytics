@@ -134,17 +134,21 @@ The final dashboard presents:
 ## 📁 Project Structure
 
 ```
-nasa-nea-analytics/
+nasa-wise-neo-analytics/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
+│       └── wise_nea_comet_cleaned.csv
 ├── notebooks/
-│   └── analysis.ipynb
-├── sql/
-│   └── queries.sql
+│   └── nasa_wise_analysis.ipynb
 ├── dashboard/
-│   └── screenshots/
+│   ├── screenshots/
+│   │   └── nasa_wise_near_earth_object_dashboard.png
+│   └── tableau/
+│       └── nasa_wise_dashboard.twbx
 ├── README.md
+└── requirements.txt
+
 ```
 
 ---
