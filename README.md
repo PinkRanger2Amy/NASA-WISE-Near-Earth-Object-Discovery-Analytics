@@ -129,7 +129,8 @@ The final dashboard presents:
 
 *(Dashboard screenshots included in the `/dashboard` folder.)*
 
----
+---<img width="647" height="720" alt="Screenshot 2026-01-10 at 8 21 25 PM" src="https://github.com/user-attachments/assets/9c7cc1fd-1306-4bf3-8e1f-ea9c80a8666d" />
+
 
 ## 📁 Project Structure
 
