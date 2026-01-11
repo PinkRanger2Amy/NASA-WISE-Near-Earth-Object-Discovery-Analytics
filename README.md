@@ -1,9 +1,7 @@
 # NASA-WISE-Near-Earth-Object-Discovery-Analytics
 Transformed raw NASA WISE mission discovery data into clear metrics and dashboards. Analyzed Near-Earth Asteroid and comet discoveries using Python and SQL, and visualized trends with Tableau to support scientific insight and data-driven decision-making.
-Perfect — here is a **complete, professional README.md** you can copy-paste directly into your GitHub repo.
-This is written at a **NASA / government / professional internship level**, not student fluff.
 
----
+***** will use SQL later****
 
 # 🚀 NASA WISE Near-Earth Object Discovery Analytics
 
